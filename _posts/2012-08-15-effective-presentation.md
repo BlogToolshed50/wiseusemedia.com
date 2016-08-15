@@ -1,0 +1,32 @@
+---
+id: 513
+title: Effective presentation
+date: 2012-08-15T03:52:00+00:00
+author: admin
+layout: post
+guid: http://www.wiseusemedia.com/2012/08/15/effective-presentation/
+permalink: /2012/08/15/effective-presentation/
+categories:
+  - General
+---
+I believe that with practically every communication, oral or written, our goal is to try to convince the other side of our ideas and/or to convince the other to do something that we want him to do or not to do. No wonder, your oral and written communication skills is the means to sell your products, services as well as ideas to others.
+
+In 1989, I had an interesting experience in the company I worked in United States. It was a tremendous learning experience as it made me realize what the most vital element of our written and oral communication is. Today, I am going to share it with you.
+
+After finishing my MBA at the University of Illinois, I joined an electronic company in Peoria. The chairman of the company, Peter Van Kampen, asked me to prepare a presentation. In order to impress Peter, I worked hard to prepare the presentation. I thought I had made a good presentation. However, when Peter saw the presentation, he didn&#8217;t say anything. Then he led me to the conference room which had a huge conference table. He then asked me to lay down the hard copies of my presentation on the conference table in the sequence that I wanted to present them. Once I had finished doing this, he asked me to make my presentation. As I made my presentation, Peter asked me probing questions at various points in my presentation. I could answer some questions while others I didn&#8217;t have an appropriate answer. This question and answer session made me realize that my presentation did not have a smooth flow. At places the sequence was not right while at others I was jumping from one thought to another without connecting the two together. The link was missing. Also, at some places, there were gaps, that is, I was reaching at conclusions without providing supporting material. In addition, I realized that I was presenting information in my presentation that was irrelevant to the topic of my presentation. Last but not the least, there was redundant information in my presentation, that is, information which was relevant to the topic but not necessary to prove my point. I didn&#8217;t have to be a rocket scientist to figure out that the above factors were not only making my presentation confusing, difficult to understand and unusually long but also eroded the credibility of my argument. Net result &#8211; my presentation was not convincing.
+
+Peter made a few valid suggestions. First, he told me that I should ensure that my presentation was sequential, that is, the various points of my presentation should be presented in a proper sequence for a smooth flow. It&#8217;s essential to figure out what should come before and what should come after. Usually, we all have the necessary information about the topic of our presentation but we do not take care to arrange them in a proper sequence. Peter assisted me in rearranging the sequence of some of the slides. I was amazed to see the difference it made in my presentation.
+
+Second, Peter told me that I should make my presentation logical. He suggested to me that I need to present supporting material before I arrive at certain conclusions. He made me fill in some of the gaps with slides that provided the reasoning behind my conclusions.
+
+Third, he said that I should ensure that my presentation flows smoothly. One cannot jump from one point to another without providing a smooth transition or link or without connecting the two. As such, I change a few words and added a couple of extra slides to ensure a smooth flow from one point to another as well as from one slide to another.
+
+Fourth, Peter advised me to make my presentation more focused. He told me that my presentation was confusing and unnecessarily long because I had included irrelevant and redundant material in my presentation. Practically all of us invariably end up adding more and more information into our presentation so as to impress the audience. Usually, most of the excessive information is either redundant or irrelevant. I implemented Peter&#8217;s suggestions. I first removed the slides which contained irrelevant and redundant material.
+
+Most of us have a habit of including as many points or arguments that we can think of in out presentation. First, this is done to impress the audience. Second, with this shotgun approach, you are hoping that at least some of the points will convince the other side of your ideas. Even though, you may have 50 points to support your idea but the important thing is to identify few vital ones that will sell your idea to the audience.
+
+Even though, Peter did not use the word &#8220;Story&#8221; while discussing my presentation, I realized that his comments were indirectly suggesting to me that the story of my presentation was not convincing. After I implemented the changes suggested by Peter, my presentation improved dramatically. The presentation not only became focused, clear, easily understandable and convincing but it also became short.
+
+I realized what was wrong with my original presentation. I didn&#8217;t have my &#8220;story&#8221; right. This happened in 1985 but the experience taught me an important lesson which I doubt I will ever forget. Now in all my communication, written or oral, I make sure that my story is right. It not only flows smoothly but is also logical, sequential and focused. I can honestly say that this experience has been instrumental in making me a better writer. Today, I run an advertising agency and take care of all copy-writing. I have also written five books, a number of articles and management case studies.
+
+I am convinced beyond any doubt that while communicating our ideas, whether orally or in writing, the key to convincing others is to tell a logical and convincing story. Every written piece, whether it is an advertisement, brochure, letter, research paper, book, essay, article, business proposal or a report should have a logical and convincing story to tell. Needless to say, you also need a logical and convincing story while making a presentation or giving a speech or conducting a seminar / training programe.
