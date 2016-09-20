@@ -1,5 +1,5 @@
 ---
-title: Quality musical products
+title: High-Quality Musical Products
 author: admin
 layout: post
 categories:
